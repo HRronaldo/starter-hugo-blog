@@ -1,7 +1,7 @@
 ---
 title: HRronaldo
 role: And everything that does not kill me makes me stronger.
-avatar_filename: 2aedd2f117ec69e4812c0c63d9261b57-bebop-cowboy-cowboy-cowboy.jpg
+avatar_filename: avatar.jpg
 bio: 工作一年，有简单的 python & Kaggle 经验
 interests:
   - Coding
