@@ -39,8 +39,8 @@ time_format: '3:04 PM'
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+math: True
+diagram: True
 privacy_pack: false
 edit_page:
   repo_url: ''
@@ -63,7 +63,7 @@ copyright_license:
   notice: 'This work is licensed under {license}'
 plugins_js: []
 avatar:
-  gravatar: False
+  gravatar: True
   shape: circle
 comments:
   provider: ''
