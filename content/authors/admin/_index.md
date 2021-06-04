@@ -17,7 +17,7 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/HRronaldo
 organizations:
   - name: Stanford University
     url: ""
